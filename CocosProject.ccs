@@ -365,10 +365,10 @@
               <PlistImageFile Name="Z_button_8_h.png" Key="Z_button_8_h.png" />
               <PlistImageFile Name="Z_button_9.png" Key="Z_button_9.png" />
               <PlistImageFile Name="Z_button_9_h.png" Key="Z_button_9_h.png" />
-              <PlistImageFile Name="Z_button_Lose_weight.png" Key="Z_button_Lose_weight.png" />
-              <PlistImageFile Name="Z_button_Lose_weight_h.png" Key="Z_button_Lose_weight_h.png" />
               <PlistImageFile Name="Z_button_del.png" Key="Z_button_del.png" />
               <PlistImageFile Name="Z_button_del_h.png" Key="Z_button_del_h.png" />
+              <PlistImageFile Name="Z_button_Lose_weight.png" Key="Z_button_Lose_weight.png" />
+              <PlistImageFile Name="Z_button_Lose_weight_h.png" Key="Z_button_Lose_weight_h.png" />
               <PlistImageFile Name="Z_shurukuang.png" Key="Z_shurukuang.png" />
             </PlistImageFolder>
             <Image Name="Z_jiaruyouxitangchuang.png" />
@@ -1553,6 +1553,7 @@
           <File Name="WebView.json" />
           <Project Name="WebView1.csd" Type="Node" />
           <File Name="WebView1.json" />
+          <Project Name="Layer.csd" Type="Layer" />
         </Folder>
       </RootFolder>
     </Group>

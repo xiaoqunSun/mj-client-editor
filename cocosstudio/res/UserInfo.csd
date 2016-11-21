@@ -5,7 +5,7 @@
 			<Content>
 				<UsedResources AbstractNodeData="userinfo/t_dissolution_01.png"/>
 				<Animation Duration="0" Speed="1.0" ctype="TimelineActionData"/>
-				<ObjectData Name="Layer" Tag="44" ctype="LayerObjectData">
+				<ObjectData Name="Layer" Tag="44" ctype="GameLayerObjectData">
 					<Children>
 						<AbstractNodeData ActionTag="-1691697417" Alpha="204" BackColorAlpha="178" BottomMargin="-40.0" ComboBoxIndex="1" LeftMargin="-160.0" Name="block" RightMargin="-160.0" Scale9Height="1" Scale9Width="1" Tag="538" TopMargin="-40.0" ctype="PanelObjectData">
 							<Scale ScaleX="0.7566" ScaleY="0.8937"/>

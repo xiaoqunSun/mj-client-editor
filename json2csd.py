@@ -7,6 +7,11 @@ import xml.dom.minidom
 import types
 import os
 
+def _convet(s):
+    if s == 'LayerObjectData':
+        s = 'GameLayerObjectData'
+    return s
+
 def addChild(doc,node,name,value):
     t = type(value)
     if t is types.DictType:
@@ -21,7 +26,7 @@ def addChild(doc,node,name,value):
             for v in value:
                 addChild(doc,child,'AbstractNodeData',v)
     elif t is types.FloatType or t is types.IntType or t is types.UnicodeType:
-        node.setAttribute(name,str(value))
+        node.setAttribute(name,_convet(str(value)))
 
 def json2csd(jsonFath,csdPath):
 

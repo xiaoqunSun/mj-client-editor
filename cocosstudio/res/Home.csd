@@ -5,7 +5,7 @@
 			<Content>
 				<UsedResources AbstractNodeData="play-yli/Photo_frame_02.png"/>
 				<Animation Duration="0" Speed="1.0" ctype="TimelineActionData"/>
-				<ObjectData Name="Layer" Tag="5" ctype="LayerObjectData">
+				<ObjectData Name="Layer" Tag="5" ctype="GameLayerObjectData">
 					<Children>
 						<AbstractNodeData ActionTag="-49129274" Name="back" Scale9Height="246" Scale9OriginX="422" Scale9OriginY="237" Scale9Width="436" Tag="9" ctype="ImageViewObjectData">
 							<CColor/>

@@ -5,7 +5,7 @@
 			<Content>
 				<UsedResources AbstractNodeData="png/fangzhu.png"/>
 				<Animation Duration="0" Speed="1.0" ctype="TimelineActionData"/>
-				<ObjectData Name="Layer" Tag="1209" ctype="LayerObjectData">
+				<ObjectData Name="Layer" Tag="1209" ctype="GameLayerObjectData">
 					<Children>
 						<AbstractNodeData ActionTag="601031859" Name="back" Scale9Height="246" Scale9OriginX="422" Scale9OriginY="237" Scale9Width="436" Tag="75" ctype="ImageViewObjectData">
 							<CColor/>

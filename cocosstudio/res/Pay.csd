@@ -5,7 +5,7 @@
 			<Content>
 				<UsedResources AbstractNodeData="png/Z_tankuang_a.png"/>
 				<Animation Duration="0" Speed="1.0" ctype="TimelineActionData"/>
-				<ObjectData Name="Layer" Tag="236" ctype="LayerObjectData">
+				<ObjectData Name="Layer" Tag="236" ctype="GameLayerObjectData">
 					<Children>
 						<AbstractNodeData ActionTag="702029624" BackColorAlpha="102" ComboBoxIndex="1" Name="block" Scale9Height="1" Scale9Width="1" Tag="451" ctype="PanelObjectData">
 							<Scale ScaleX="1.0" ScaleY="1.0"/>

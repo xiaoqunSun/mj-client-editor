@@ -5,7 +5,7 @@
 			<Content>
 				<UsedResources AbstractNodeData="playerchat/zhiya.png"/>
 				<Animation Duration="0" Speed="1.0" ctype="TimelineActionData"/>
-				<ObjectData Name="Layer" Tag="134" ctype="LayerObjectData">
+				<ObjectData Name="Layer" Tag="134" ctype="GameLayerObjectData">
 					<Children>
 						<AbstractNodeData ActionTag="413411161" Alpha="204" BackColorAlpha="178" ComboBoxIndex="1" LeftMargin="1.327" Name="block" RightMargin="-1.327" Scale9Height="1" Scale9Width="1" Tag="170" ctype="PanelObjectData">
 							<Scale ScaleX="1.0" ScaleY="1.0"/>

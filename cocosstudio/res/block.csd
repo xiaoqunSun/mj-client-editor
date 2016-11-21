@@ -5,7 +5,7 @@
 			<Content>
 				<UsedResources AbstractNodeData="loading/loading_image.png"/>
 				<Animation Duration="0" Speed="1.0" ctype="TimelineActionData"/>
-				<ObjectData Name="Layer" Tag="67" ctype="LayerObjectData">
+				<ObjectData Name="Layer" Tag="67" ctype="GameLayerObjectData">
 					<Children>
 						<AbstractNodeData ActionTag="-938742499" Alpha="101" BackColorAlpha="102" ComboBoxIndex="1" Name="block" Scale9Height="1" Scale9Width="1" Tag="145" ctype="PanelObjectData">
 							<Scale ScaleX="1.0" ScaleY="1.0"/>

@@ -5,7 +5,7 @@
 			<Content>
 				<UsedResources AbstractNodeData="Default/Button_Disable.png"/>
 				<Animation Duration="0" Speed="1.0" ctype="TimelineActionData"/>
-				<ObjectData Name="Layer" Tag="52" ctype="LayerObjectData">
+				<ObjectData Name="Layer" Tag="52" ctype="GameLayerObjectData">
 					<Children>
 						<AbstractNodeData ActionTag="1807462074" Alpha="204" BackColorAlpha="178" ComboBoxIndex="1" Name="block" Scale9Height="1" Scale9Width="1" Tag="1640" ctype="PanelObjectData">
 							<Scale ScaleX="1.0" ScaleY="1.0"/>

@@ -5,7 +5,7 @@
 			<Content>
 				<UsedResources AbstractNodeData="Default/CheckBoxNode_Disable.png"/>
 				<Animation Duration="0" Speed="1.0" ctype="TimelineActionData"/>
-				<ObjectData Name="Layer" Tag="26" ctype="LayerObjectData">
+				<ObjectData Name="Layer" Tag="26" ctype="GameLayerObjectData">
 					<Children>
 						<AbstractNodeData ActionTag="967291680" Alpha="204" BackColorAlpha="178" ComboBoxIndex="1" Name="block" Scale9Height="1" Scale9Width="1" Tag="1605" ctype="PanelObjectData">
 							<Scale ScaleX="1.0" ScaleY="1.0"/>

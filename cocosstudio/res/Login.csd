@@ -5,7 +5,7 @@
 			<Content>
 				<UsedResources AbstractNodeData="update/logo_01.png"/>
 				<Animation Duration="0" Speed="1.0" ctype="TimelineActionData"/>
-				<ObjectData Name="Layer" Tag="4" ctype="LayerObjectData">
+				<ObjectData Name="Layer" Tag="4" ctype="GameLayerObjectData">
 					<Children>
 						<AbstractNodeData ActionTag="-1453471211" Name="back" Scale9Height="246" Scale9OriginX="422" Scale9OriginY="237" Scale9Width="436" Tag="6" ctype="ImageViewObjectData">
 							<CColor/>

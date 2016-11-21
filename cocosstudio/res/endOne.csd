@@ -5,7 +5,7 @@
 			<Content>
 				<UsedResources AbstractNodeData="play-yli/icon_zhuang.png"/>
 				<Animation Duration="0" Speed="1.0" ctype="TimelineActionData"/>
-				<ObjectData Name="Layer" Tag="1208" ctype="LayerObjectData">
+				<ObjectData Name="Layer" Tag="1208" ctype="GameLayerObjectData">
 					<Children>
 						<AbstractNodeData ActionTag="755369775" BottomMargin="0.0001" LeftMargin="-1.2801" Name="back" RightMargin="1.28" Scale9Height="246" Scale9OriginX="422" Scale9OriginY="237" Scale9Width="436" Tag="1595" TopMargin="-0.0001" ctype="ImageViewObjectData">
 							<Scale ScaleX="1.0" ScaleY="1.0"/>

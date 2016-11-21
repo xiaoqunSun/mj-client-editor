@@ -5,7 +5,7 @@
 			<Content>
 				<UsedResources AbstractNodeData="webview/btn_close_press.png"/>
 				<Animation Duration="0" Speed="1.0" ctype="TimelineActionData"/>
-				<ObjectData Name="Layer" Tag="12" ctype="LayerObjectData">
+				<ObjectData Name="Layer" Tag="12" ctype="GameLayerObjectData">
 					<Children>
 						<AbstractNodeData ActionTag="466230964" Alpha="204" BackColorAlpha="178" BottomMargin="-52.8691" ComboBoxIndex="1" LeftMargin="-133.798" Name="block" RightMargin="-186.202" Scale9Height="1" Scale9Width="1" Tag="33" TopMargin="-27.1309" ctype="PanelObjectData">
 							<Scale ScaleX="1.0" ScaleY="1.0"/>

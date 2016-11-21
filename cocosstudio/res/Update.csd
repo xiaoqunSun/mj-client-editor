@@ -5,7 +5,7 @@
 			<Content>
 				<UsedResources AbstractNodeData="update/z_loading.png"/>
 				<Animation Duration="0" Speed="1.0" ctype="TimelineActionData"/>
-				<ObjectData Name="Layer" Tag="3" ctype="LayerObjectData">
+				<ObjectData Name="Layer" Tag="3" ctype="GameLayerObjectData">
 					<Children>
 						<AbstractNodeData ActionTag="588231318" Name="back" Scale9Height="246" Scale9OriginX="422" Scale9OriginY="237" Scale9Width="436" Tag="7" ctype="ImageViewObjectData">
 							<CColor/>
