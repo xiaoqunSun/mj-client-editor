@@ -15,6 +15,12 @@ def _convet(s):
 def addChild(doc,node,name,value):
     t = type(value)
     if t is types.DictType:
+        if 'FileData' in name:
+            if value['Type'] == 'Normal' and value['Path'] != "" and not('res/' in value['Path']):
+                value['Path'] = 'res/' + value['Path']
+            if value['Type'] == 'PlistSubImage' and value['Plist'] != "" and not('res/' in value['Plist']):
+                value['Plist'] = 'res/' + value['Plist']
+
         child = doc.createElement(name)
         node.appendChild(child) 
         for k in value:

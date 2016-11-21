@@ -1514,6 +1514,7 @@
           <Image Name="HelloWorld.png" />
           <Project Name="Home.csd" Type="Layer" />
           <File Name="Home.json" />
+          <Project Name="Layer.csd" Type="Layer" />
           <Project Name="Login.csd" Type="Layer" />
           <File Name="Login.json" />
           <Project Name="NetError.csd" Type="Node" />
@@ -1553,7 +1554,6 @@
           <File Name="WebView.json" />
           <Project Name="WebView1.csd" Type="Node" />
           <File Name="WebView1.json" />
-          <Project Name="Layer.csd" Type="Layer" />
         </Folder>
       </RootFolder>
     </Group>
